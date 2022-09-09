@@ -1,0 +1,538 @@
+comments{
+}
+info{
+rowcount:32
+colcount:32
+camerapos:Translation: X=1200.000 Y=1200.000 Z=0.000 Rotation: P=44.999992 Y=0.000000 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+biome:rock
+creator:BluABK
+erosioninitialwaittime:10
+version:2022-07-25-1
+erosionscale:1.0
+initialore:10
+oxygen:2000/10000
+initialcrystals:1
+levelname:Buying Time
+}
+tiles{
+38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,
+38,11,11,11,11,11,11,11,30,50,38,38,11,11,11,11,38,38,38,38,101,101,38,38,38,38,30,30,30,42,38,38,
+38,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,38,38,38,38,38,112,38,38,38,38,42,42,30,30,38,38,
+38,42,38,24,1,1,11,11,11,11,11,11,11,11,11,11,30,38,38,38,38,30,38,38,38,38,101,30,34,34,34,38,
+38,38,38,14,14,11,11,11,38,38,38,34,30,38,38,38,26,38,38,38,38,30,38,38,38,38,101,42,34,34,101,38,
+38,1,1,24,14,11,11,5,50,38,38,34,30,38,30,38,30,38,38,38,26,26,38,38,38,42,34,38,38,34,101,38,
+38,1,1,11,24,11,11,11,38,38,38,34,30,101,38,38,30,38,38,38,26,26,34,50,38,38,38,38,38,34,101,38,
+38,11,11,11,24,14,14,11,38,38,34,34,30,30,38,38,30,38,38,101,30,38,38,38,38,42,101,101,34,34,34,38,
+38,11,1,14,24,24,14,14,38,38,42,34,30,38,38,38,38,38,38,101,38,38,34,34,34,101,101,34,42,38,38,38,
+38,11,1,14,1,1,38,38,38,38,38,38,38,38,38,38,38,38,38,34,38,38,34,38,38,38,38,38,38,38,38,38,
+38,1,1,1,1,38,38,38,38,38,34,34,34,34,38,38,38,38,38,34,34,38,34,38,38,38,38,38,38,38,42,38,
+38,38,1,38,38,38,38,38,38,38,38,38,38,34,38,38,38,38,38,34,38,38,34,38,38,101,101,101,101,111,111,38,
+38,50,1,38,38,38,38,38,38,38,38,38,38,34,38,38,38,38,38,34,38,38,34,38,38,101,101,101,111,111,111,38,
+38,38,1,1,1,1,1,30,30,30,30,30,101,101,101,30,30,26,26,101,101,101,26,42,34,101,101,111,111,111,111,38,
+38,38,26,1,1,11,11,38,38,38,30,38,38,38,38,38,38,34,30,30,34,38,38,38,38,101,101,101,111,111,111,38,
+38,38,26,26,26,11,11,38,38,38,30,38,38,38,38,38,38,38,38,34,34,38,38,38,38,101,101,101,101,111,111,38,
+38,38,26,38,38,38,11,42,38,30,112,26,26,30,30,38,38,30,34,34,34,30,30,38,38,34,34,38,50,38,38,38,
+38,38,101,38,38,38,38,38,38,30,101,101,26,46,26,38,38,26,30,30,30,30,30,38,38,38,38,38,38,38,38,38,
+38,38,112,101,26,30,38,38,38,30,34,34,34,34,34,30,38,38,38,38,38,38,38,38,38,38,38,38,42,101,38,38,
+38,38,34,38,26,26,30,30,30,30,34,34,34,30,34,30,38,26,38,38,38,30,26,30,38,38,38,34,34,38,38,38,
+38,34,34,30,30,34,34,26,30,38,34,34,112,34,34,30,38,30,26,38,38,26,30,26,30,30,38,38,46,38,38,38,
+38,34,34,38,30,34,26,34,26,38,34,34,34,34,34,30,38,26,38,38,38,38,38,38,38,30,38,46,46,46,38,38,
+38,34,101,101,101,34,26,26,30,38,34,34,34,34,34,34,26,30,34,30,30,34,34,34,34,34,38,30,30,30,38,38,
+38,34,34,101,101,38,30,38,38,38,38,30,38,38,30,30,34,30,30,26,46,38,46,46,46,34,30,26,26,26,26,38,
+38,34,34,101,101,38,30,38,38,38,38,38,38,38,30,46,38,101,26,30,30,38,46,46,46,26,26,26,26,38,38,38,
+38,34,34,34,34,34,30,30,34,30,38,38,38,38,38,30,38,38,38,34,38,38,46,46,111,114,101,111,114,114,111,38,
+38,34,34,30,34,30,38,38,30,34,38,38,38,38,30,30,38,38,38,30,38,38,38,38,111,114,124,111,111,111,111,38,
+38,34,34,30,38,34,38,38,38,30,30,101,34,26,30,38,38,38,30,34,26,38,30,38,101,111,124,124,124,111,111,38,
+38,34,38,38,38,38,38,38,38,38,38,38,30,30,34,38,38,38,34,46,38,38,30,38,101,111,111,111,114,111,111,38,
+38,34,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,30,30,30,30,38,50,38,111,101,114,114,111,38,
+38,42,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,111,111,111,111,111,38,
+38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,38,
+}
+height{
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,-3600,-3800,-2050,0,0,0,0,0,0,100,50,250,450,450,450,150,100,50,100,-2850,-950,-700,-300,0,50,0,50,50,50,50,100,0,
+0,-3850,-850,-400,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,0,-1000,-700,-600,-200,0,0,0,150,0,0,50,150,0,
+0,0,0,0,0,0,0,0,0,0,0,50,50,0,0,0,0,-50,-50,-50,-50,-500,-450,-150,50,50,100,0,100,50,100,50,0,
+0,0,0,50,50,50,0,0,0,0,0,0,0,0,0,0,0,-50,-50,-100,-250,-600,-600,-150,50,50,0,100,100,150,50,0,0,
+0,100,100,100,50,50,0,0,0,150,150,150,100,150,150,200,-50,-50,-50,-150,-450,-500,-550,0,0,0,0,50,200,100,0,50,0,
+0,100,100,50,50,50,0,0,0,150,150,200,150,150,150,200,-50,-50,-50,-150,-350,-450,-500,-550,50,150,50,0,150,0,50,100,0,
+0,50,50,50,0,50,100,50,0,100,200,200,250,100,0,100,-50,-100,-200,-250,-300,-400,-450,-500,0,0,0,-50,0,50,0,0,0,
+0,0,50,50,50,150,100,50,0,100,150,250,100,100,100,0,-50,-100,-200,-250,-250,-300,-250,-200,-150,-100,-100,-50,-100,0,150,0,0,
+0,0,0,150,100,0,0,0,0,50,100,50,150,0,100,100,0,50,0,-150,-150,-150,-200,-200,-200,-250,-150,-150,-150,-50,100,100,0,
+0,0,0,150,100,0,0,0,50,0,0,100,150,200,100,0,150,0,50,-100,-100,-150,-100,-100,0,50,50,100,50,0,150,150,0,
+0,0,200,250,0,0,0,100,0,0,100,50,150,150,200,100,0,0,0,-100,-100,-150,-50,-100,0,0,0,0,0,0,0,0,0,
+0,0,100,200,0,50,50,0,0,0,100,50,50,0,100,0,0,0,0,-100,-100,0,100,100,0,0,0,0,0,0,0,100,0,
+0,150,50,200,200,-50,-50,-50,-50,-50,0,0,0,50,50,0,0,0,0,-100,-100,0,0,0,0,0,0,0,0,0,0,250,0,
+0,0,250,300,200,-50,-50,-50,-50,-50,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,
+0,50,0,250,250,0,0,0,200,300,300,250,150,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,
+0,0,0,50,50,0,0,0,200,150,50,0,0,-50,-50,-50,0,0,150,150,150,200,0,-50,0,0,0,0,0,0,0,0,0,
+0,50,0,50,150,200,0,0,200,50,50,0,-200,-100,-100,0,-50,0,150,150,150,150,0,0,0,0,0,0,0,0,0,0,0,
+0,0,100,50,50,100,200,200,200,0,0,-100,-100,-150,0,-50,-150,0,150,150,150,150,0,0,50,0,50,0,0,50,0,50,0,
+0,50,100,100,100,0,0,0,0,0,0,0,0,0,0,-100,-100,0,0,0,0,0,0,50,50,0,50,100,0,0,50,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50,0,0,0,0,0,0,0,0,0,0,50,0,0,100,0,0,0,
+0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,-50,-50,50,0,0,50,50,100,0,50,50,50,0,0,0,0,50,0,
+0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,50,0,100,0,0,50,50,0,50,50,50,0,50,0,
+0,50,0,0,0,0,0,50,50,100,0,0,50,0,0,50,0,50,150,0,0,0,0,0,0,0,0,0,0,0,0,50,0,
+0,0,0,0,0,0,0,50,50,100,0,0,50,0,0,50,0,50,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,50,0,0,0,0,50,50,0,0,0,0,0,0,0,0,0,0,100,50,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,50,0,0,0,0,0,0,0,0,200,150,50,100,100,150,0,50,0,100,50,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,50,0,200,100,100,100,200,50,0,0,50,0,50,0,0,50,0,0,0,0,0,0,0,0,0,0,
+0,50,0,0,50,100,0,150,50,150,50,50,50,100,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,50,0,100,100,200,50,0,0,0,0,0,0,0,0,0,0,0,50,0,50,0,0,0,0,0,0,0,0,0,0,0,0,
+0,50,0,100,200,100,100,50,100,0,50,0,50,0,50,50,50,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,
+0,50,0,50,200,50,150,150,100,50,100,100,100,0,50,50,100,50,50,0,50,50,100,100,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+}
+resources{
+crystals:
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ore:
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+}
+objectives{
+building:BuildingSuperTeleport_C
+variable:ttAtExitPoint==1/Use the Tunnel Transport to exit the cavern via the waterfall.
+}
+buildings{
+BuildingToolStore_C
+Translation: X=8850.000 Y=7650.000 Z=0.000 Rotation: P=0.000000 Y=-89.999992 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Level=1
+Teleport=False
+Health=MAX
+Powerpaths=X=15 Y=1 Z=5/X=15 Y=1 Z=4/
+BuildingToolStore_C
+Translation: X=1050.000 Y=2850.000 Z=125.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Level=1
+Teleport=False
+Health=MAX
+Powerpaths=X=4 Y=1 Z=3/X=4 Y=0 Z=3/
+BuildingTeleportPad_C
+Translation: X=2250.000 Y=2550.000 Z=25.000 Rotation: P=0.000000 Y=-89.999992 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Level=1
+Teleport=False
+Health=MAX
+Powerpaths=X=4 Y=0 Z=7/X=4 Y=0 Z=6/
+BuildingSupportStation_C
+Translation: X=7650.000 Y=7950.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Level=1
+Teleport=False
+Health=MAX
+Powerpaths=X=15 Y=2 Z=1/X=15 Y=1 Z=1/
+BuildingSupportStation_C
+Translation: X=1950.000 Y=2250.000 Z=75.000 Rotation: P=0.000000 Y=-89.999992 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Level=1
+Teleport=False
+Health=MAX
+Powerpaths=X=0 Y=7 Z=6/X=0 Y=7 Z=5/
+BuildingPowerStation_C
+Translation: X=8550.000 Y=8850.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Level=1
+Teleport=False
+Health=MAX
+Powerpaths=X=15 Y=5 Z=4/X=15 Y=5 Z=5/X=15 Y=4 Z=4/
+BuildingPowerStation_C
+Translation: X=1350.000 Y=1350.000 Z=50.000 Rotation: P=0.000000 Y=-179.999954 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Level=1
+Teleport=False
+Health=MAX
+Powerpaths=X=0 Y=4 Z=4/X=0 Y=4 Z=3/X=0 Y=5 Z=4/
+}
+landslidefrequency{
+}
+lavaspread{
+}
+miners{
+ID=2
+Translation: X=6056.378 Y=3983.898 Z=3.497 Rotation: P=0.000000 Y=171.225723 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Drill/JobDriver/
+ID=0/Sparks
+Translation: X=812.755 Y=2956.337 Z=163.541 Rotation: P=0.000000 Y=166.352219 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Drill/JobEngineer/JobExplosivesExpert/JobPilot/JobDriver/JobGeologist/JobSailor/Level/Level/Level/Level/
+}
+briefing{
+Are you ready for a challenge, Cadet?
+
+The scanners aboard LMS Explorer has picked up a cave system rich in energy crystals, however due to recent teleporter malfunctions we're unable to teleport down there.
+
+We've had to set up base in an connected cavern elevated far above it, which borders a vast underground lake, so you need to tread very carefully. This cavern is however scarce on energy crystals apart from some seams scattered throughout.
+
+The base is situated next to a temperamental stream of water, which causes periodic blackouts due to flooding.
+
+On top of this we're unable to build any further support stations due to missing parts, so you must keep the one you have intact. There should however be an abandoned flooded base far to the south east, but the path is riddled with hard rock, so it will take time getting there.
+
+You need to buy time until you have gathered enough energy crystals to construct a Super Teleport and a Tunnel Transport, then you need to exit the cavern via the waterfall.
+}
+briefingsuccess{
+Well done, Cadet! You made it out of the precarious cavern in one piece!
+}
+briefingfailure{
+It seems this was too much for you, Cadet... This is a grave setback, we are in dire need of a vast amount of energy crystals....
+}
+vehicles{
+}
+creatures{
+CreatureRockMonster_C
+Translation: X=7703.139 Y=2511.304 Z=-7.313 Rotation: P=0.000000 Y=164.915298 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=0
+CreatureRockMonster_C
+Translation: X=8215.732 Y=2260.948 Z=108.542 Rotation: P=0.000000 Y=55.443924 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=1
+CreatureRockMonster_C
+Translation: X=7877.012 Y=931.621 Z=230.944 Rotation: P=0.000000 Y=-97.775826 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=2
+CreatureRockMonster_C
+Translation: X=8772.908 Y=5597.384 Z=145.293 Rotation: P=0.000000 Y=66.123566 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=3
+CreatureRockMonster_C
+Translation: X=9170.941 Y=1317.495 Z=142.269 Rotation: P=0.000000 Y=176.517197 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=4
+CreatureRockMonster_C
+Translation: X=9200.098 Y=1990.836 Z=178.865 Rotation: P=0.000000 Y=45.226936 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=5
+CreatureSlimySlug_C
+Translation: X=3806.707 Y=6154.166 Z=63.150 Rotation: P=0.000000 Y=-131.482895 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=6
+CreatureRockMonster_C
+Translation: X=1207.119 Y=7201.375 Z=138.150 Rotation: P=0.000000 Y=-152.434494 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=7
+CreatureRockMonster_C
+Translation: X=5225.911 Y=7359.278 Z=142.811 Rotation: P=0.000000 Y=81.812141 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=8
+CreatureRockMonster_C
+Translation: X=9216.894 Y=1760.925 Z=219.979 Rotation: P=0.000000 Y=-45.831165 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=9
+CreatureRockMonster_C
+Translation: X=9243.920 Y=1473.227 Z=176.533 Rotation: P=0.000000 Y=57.135689 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=10
+CreatureRockMonster_C
+Translation: X=9206.070 Y=1999.749 Z=175.894 Rotation: P=0.000000 Y=-150.259079 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=11
+CreatureRockMonster_C
+Translation: X=7811.915 Y=1352.875 Z=158.372 Rotation: P=0.000000 Y=-27.988211 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=12
+CreatureRockMonster_C
+Translation: X=8051.479 Y=992.259 Z=161.173 Rotation: P=0.000000 Y=150.127243 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=13
+CreatureRockMonster_C
+Translation: X=8052.076 Y=1344.852 Z=208.213 Rotation: P=0.000000 Y=64.222878 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=14
+CreatureRockMonster_C
+Translation: X=3471.409 Y=8249.370 Z=214.359 Rotation: P=0.000000 Y=-174.748352 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=15
+CreatureRockMonster_C
+Translation: X=8821.668 Y=5445.336 Z=162.508 Rotation: P=0.000000 Y=70.166321 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=16
+CreatureRockMonster_C
+Translation: X=4052.325 Y=1985.665 Z=256.238 Rotation: P=0.000000 Y=95.897064 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+ID=17
+}
+blocks{
+3/EventCallEvent:6,4,0.0,baseTideToggle
+4/TriggerTimer:5,6,ScriptBlockTimerTrigger4,150,540,_
+4-3
+}
+script{
+int ttAtExitPoint=0
+
+
+bool baseTideIsFlooding=false
+#timer baseTideTimer=10,10,baseTideToggle
+
+bool floodedCaveForkExcavationStarted # Doesnt matter how far, jsut that excavation has started in any way.
+bool caveForkBypassEnabled
+bool forkCliffExcavated
+bool forkBypassFlooded
+bool forkCliffFlooded
+bool weakenedWallAdjacentToFork
+float floodSpeedFast=1.75
+float floodSpeedNormal=3.14
+
+# Disable certain advantagous buildings, due to "resource shortage".
+disable:BuildingSupportStation_C
+
+# Objectives
+#variable:ttAtExitPointObjective
+#variable:ttAtExitPoint==1/Exit the cavern using the Tunnel Transport.
+
+# MSG: Objectives
+string superTeleportBuiltMsg="Good! Now all you need to do is to teleport down a Heavycopter and exit the cavern via the waterfall"
+string ttSpawnedMsg="Board the Tunnel Transport and exit the cavern via the waterfall"
+
+# MSG: Base tide
+string baseTideFloodsMsg="The tide has risen, resulting in another blackout."
+string baseTideEbbsMsg="The tide has receeded, but it will rise again. Quickly, rebuild that power path while you still can!"
+
+# MSG: Flooded cave
+string floodedCaveTriggeredMsg="I warned you!! You drilled directly into a flooding cavern, get out of there now!"
+string floodedCaveDiverted="Phew, it looks like the water was safely diverted through a cave fork, we're safe for now... But, please be more careful in the future!"
+string floodedCaveNotDiverted="The water flooded all the way back to base, all of those caverns are now out of our reach! This is a grave set back, indeed..."
+string caveForkBypassEnabledMsg="It seems like this cave ends in a cliff, we might be able to divert water this way."
+
+# MSG: Floodable Fork cave
+string weakenedWallAdjacentToForkTornDownMsg="The flood of water has caused the weakend wall foundation to subside, the path is clear!"
+string weakenedWallAdjacentToForkMsg="Your drilling activity seems to have weakended one of the solid rock walls, maybe it can be torn down somehow?"
+
+baseTideEbbs::;
+place:6,4,5;
+baseTideIsFlooding=false;
+msg:baseTideEbbsMsg;
+
+baseTideFloods::;
+place:6,4,11;
+baseTideIsFlooding=true;
+msg:baseTideFloodsMsg;
+
+baseTideToggle::;
+((baseTideIsFlooding==true))[baseTideEbbs][baseTideFloods] ;
+
+weakenedWallAdjacentToForkTornDown::;
+((forkCliffExcavated==true))msg:weakenedWallAdjacentToForkTornDownMsg;
+((forkCliffExcavated==true))drill:7,18;
+((forkCliffExcavated==true))drill:7,17;
+((forkCliffExcavated==true))wait:floodSpeedFast;
+((forkCliffExcavated==true))place:7,17,11;
+((forkCliffExcavated==true))place:7,18,11;
+
+
+floodFork::;
+((get(12)(19)!=34))place:12,19,11;
+wait:floodSpeedFast;
+((get(11)(19)!=34))place:11,19,11;
+wait:floodSpeedFast;
+((get(10)(19)!=34))place:10,19,11;
+wait:floodSpeedFast;
+((get(10)(20)!=34))place:10,20,11;
+((get(9)(19)!=34))place:9,19,11;
+wait:floodSpeedFast;
+# Tiny inner cave (NB: can already be flooded from other direction)
+((get(8)(19)!=11))place:8,19,11;
+wait:floodSpeedFast;
+((get(7)(19)!=11))place:7,19,11;
+((weakenedWallAdjacentToFork==true))weakenedWallAdjacentToForkTornDown;
+# Middle rocks
+((get(7)(20)!=34))place:7,20,11;
+wait:floodSpeedFast;
+((get(6)(20)!=26))place:6,20,11;
+wait:floodSpeedFast;
+((get(5)(20)!=26))place:5,20,11;
+((get(6)(21)!=26))place:6,21,11;
+wait:floodSpeedFast; # Known BUG: No easy non-convoluted way to wait if only one or both are true, expect weird wait mid-flow
+((get(5)(21)!=26))place:5,21,11;
+((get(6)(22)!=34))place:6,22,11;
+wait:floodSpeedFast; # Known BUG: No easy non-convoluted way to wait if only one or both are true, expect weird wait mid-flow
+((get(4)(21)!=30))place:4,21,11;
+((get(3)(21)!=30))place:3,21,11;
+((get(3)(21)!=30))forkCliffExcavated=true;
+# Final inner cave
+((forkCliffExcavated==true))place:2,21,11;
+((forkCliffExcavated==true))wait:floodSpeedFast;
+((forkCliffExcavated==true))place:1,21,11;
+((forkCliffExcavated==true))wait:floodSpeedFast;
+((forkCliffExcavated==true))place:1,20,11;
+((forkCliffExcavated==true))forkCliffFlooded=true;
+
+floodTowardsBase::;
+((get(13)(18)!=30))place:13,18,11;
+wait:floodSpeedFast;
+((get(13)(17)!=26))place:13,17,11;
+wait:floodSpeedFast;
+place:13,17,11;
+wait:floodSpeedFast;
+place:13,16,11;
+wait:floodSpeedFast;
+place:13,15,11;
+wait:floodSpeedFast;
+place:13,14,11;
+wait:floodSpeedFast;
+place:13,13,11;
+wait:floodSpeedFast;
+place:13,12,11;
+wait:floodSpeedFast;
+place:13,11,11;
+wait:floodSpeedFast;
+place:13,10,11;
+wait:floodSpeedFast;
+place:13,9,11;
+wait:floodSpeedFast;
+place:13,8,11;
+wait:floodSpeedFast;
+place:13,7,11;
+wait:floodSpeedFast;
+place:13,6,11;
+wait:floodSpeedFast;
+place:13,5,11;
+msg:floodedCaveNotDiverted;
+
+
+floodedCaveTriggered::;
+# Order: center (NB: +1 south of rest) --> left,right --> far left,far right
+# Step 1
+place:13,26,11; # center
+place:14,27,11; # east
+place:12,27,11; # west
+place:15,28,11; # east+1
+place:11,28,11; # west+1
+wait:3;
+# Step 2
+place:13,25,11; # center
+place:14,26,11; # east
+place:12,26,11; # west
+place:15,27,11; # east+1
+place:11,27,11; # west+1
+wait:2;
+# Step 3 (now entering slim cavern and thus speeding up)
+place:13,24,11; # center (inside slim cavern)
+place:14,25,11; # east
+place:12,25,11; # west
+place:15,26,11; # east+1
+place:11,26,11; # west+1
+# Flow until fork (if present)
+wait:floodSpeedFast;
+place:15,25,11; # east+1
+place:11,25,11; # west+1
+place:13,24,11; # center
+wait:floodSpeedFast;
+place:13,23,11;
+wait:floodSpeedFast;
+place:13,22,11;
+wait:floodSpeedFast;
+place:13,21,11;
+wait:floodSpeedFast;
+place:13,20,11;
+wait:floodSpeedFast;
+place:13,19,11;
+# Possible fork
+((floodedCaveForkExcavationStarted==true))floodFork;
+((caveForkBypassEnabled!=true))floodTowardsBase;
+
+discoverFloodedCave::;
+drill:13,24;
+msg:floodedCaveTriggeredMsg;
+floodedCaveTriggered;
+
+enableFloodForkBypass::;
+caveForkBypassEnabled=true;
+forkCliffExcavated=true;
+msg:caveForkBypassEnabledMsg;
+
+weakenedWallPathEnabled::;
+place:7,16,11;
+weakenedWallAdjacentToFork=true;
+msg:weakenedWallAdjacentToForkMsg;
+((forkCliffFlooded==true))wait:15;
+((forkCliffFlooded==true))weakenedWallAdjacentToForkTornDown;
+
+superTeleportBuilt::;
+msg:superTeleportBuiltMsg;
+
+arrow exitObjectiveArrow=green
+
+tunnelTransportSpawned::;
+msg:ttSpawnedMsg;
+showarrow:1,1,exitObjectiveArrow;
+
+rapidRiderDropsIntoWaterfall::;
+msg:rapidRiderDropsIntoWaterfallMsg;
+lastvehicle.
+
+excavateForkViaBaseRiver::;
+place:7,17,11;
+drill:7,18;
+wait:floodSpeedFast;
+place:7,18,11;
+wait:floodSpeedFast;
+place:7,19,11;
+place:8,19,11;
+forkBypassFlooded=true;
+
+winLevel::;
+pan:31,31;
+wait:3;
+win;
+
+### Triggers
+when(drill:13,23)[discoverFloodedCave]
+when(drill:13,22)[shake:4.0]
+when(drill:12,19)[floodedCaveForkExcavationStarted=true]
+when(drill:3,21)[enableFloodForkBypass]
+
+# When drilling walls adjacent to base river.
+when(drill:3,16)[place:3,16,11]
+when(drill:4,16)[place:4,16,11]
+when(drill:5,16)[place:5,16,11]
+when(drill:6,16)[place:6,16,11]
+
+# Unlockable bonus path.
+when(drill:7,16)[weakenedWallPathEnabled]
+
+# Objective triggers
+when(BuildingSuperTeleport_C.built)[superTeleportBuilt]
+when(VehicleTunnelTransport_C.new)[tunnelTransportSpawned]
+when(drive:1,1,VehicleTunnelTransport_C)[winLevel]
+
+init::;
+starttimer:baseTideTimer;
+
+}
