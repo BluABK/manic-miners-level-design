@@ -28,16 +28,16 @@ tiles{
 38,1,1,1,1,38,38,38,38,38,34,34,34,34,38,38,38,38,38,34,34,38,34,38,38,38,38,38,38,38,42,38,
 38,38,1,38,38,38,38,38,38,38,38,38,38,34,38,38,38,38,38,34,38,38,34,38,38,101,101,101,101,111,111,38,
 38,50,1,38,38,38,38,38,38,38,38,38,38,34,38,38,38,38,38,34,38,38,34,38,38,101,101,101,111,111,111,38,
-38,38,1,1,1,1,1,30,30,30,30,30,101,101,101,30,30,26,26,101,101,101,26,42,34,101,101,111,111,111,111,38,
+38,38,1,1,1,1,1,30,30,30,30,30,101,101,101,30,30,26,26,30,30,30,30,42,34,101,101,111,111,111,111,38,
 38,38,26,1,1,11,11,38,38,38,30,38,38,38,38,38,38,34,30,30,34,38,38,38,38,101,101,101,111,111,111,38,
 38,38,26,26,26,11,11,38,38,38,30,38,38,38,38,38,38,38,38,34,34,38,38,38,38,101,101,101,101,111,111,38,
 38,38,26,38,38,38,11,42,38,30,112,26,26,30,30,38,38,30,34,34,34,30,30,38,38,34,34,38,50,38,38,38,
-38,38,101,38,38,38,38,38,38,30,101,101,26,46,26,38,38,26,30,30,30,30,30,38,38,38,38,38,38,38,38,38,
-38,38,112,101,26,30,38,38,38,30,34,34,34,34,34,30,38,38,38,38,38,38,38,38,38,38,38,38,42,101,38,38,
-38,38,34,38,26,26,30,30,30,30,34,34,34,30,34,30,38,26,38,38,38,30,26,30,38,38,38,34,34,38,38,38,
-38,34,34,30,30,34,34,26,30,38,34,34,112,34,34,30,38,30,26,38,38,26,30,26,30,30,38,38,46,38,38,38,
-38,34,34,38,30,34,26,34,26,38,34,34,34,34,34,30,38,26,38,38,38,38,38,38,38,30,38,46,46,46,38,38,
-38,34,101,101,101,34,26,26,30,38,34,34,34,34,34,34,26,30,34,30,30,34,34,34,34,34,38,30,30,30,38,38,
+38,38,101,38,38,38,38,38,38,30,101,101,26,46,26,38,30,26,30,30,38,38,38,38,38,38,38,38,38,38,38,38,
+38,38,112,101,26,30,38,38,38,30,34,34,34,34,34,30,30,38,38,38,38,38,38,38,38,38,38,38,42,101,38,38,
+38,38,34,38,26,26,30,30,30,30,34,34,34,30,34,30,38,38,38,38,38,30,26,30,38,38,38,34,34,38,38,38,
+38,34,34,30,30,34,34,26,30,38,34,34,112,34,34,30,38,38,26,38,38,26,30,26,30,30,38,38,46,38,38,38,
+38,34,34,38,30,34,26,34,26,38,34,34,34,34,34,30,38,38,46,38,38,38,38,38,38,30,38,46,46,46,38,38,
+38,34,101,101,101,34,26,26,30,38,34,34,34,34,34,34,38,38,34,30,30,34,34,34,34,34,38,30,30,30,38,38,
 38,34,34,101,101,38,30,38,38,38,38,30,38,38,30,30,34,30,30,26,46,38,46,46,46,34,30,26,26,26,26,38,
 38,34,34,101,101,38,30,38,38,38,38,38,38,38,30,46,38,101,26,30,30,38,46,46,46,26,26,26,26,38,38,38,
 38,34,34,34,34,34,30,30,34,30,38,38,38,38,38,30,38,38,38,34,38,38,46,46,111,114,101,111,114,114,111,38,
@@ -204,11 +204,8 @@ landslidefrequency{
 lavaspread{
 }
 miners{
-ID=2
-Translation: X=6056.378 Y=3983.898 Z=3.497 Rotation: P=0.000000 Y=171.225723 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
-Drill/JobDriver/
 ID=0/Sparks
-Translation: X=812.755 Y=2956.337 Z=163.541 Rotation: P=0.000000 Y=166.352219 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=804.789 Y=2956.337 Z=159.558 Rotation: P=0.000000 Y=166.351944 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 Drill/JobEngineer/JobExplosivesExpert/JobPilot/JobDriver/JobGeologist/JobSailor/Level/Level/Level/Level/
 }
 briefing{
@@ -237,19 +234,19 @@ CreatureRockMonster_C
 Translation: X=7703.139 Y=2511.304 Z=-7.313 Rotation: P=0.000000 Y=164.915298 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=0
 CreatureRockMonster_C
-Translation: X=8215.732 Y=2260.948 Z=108.542 Rotation: P=0.000000 Y=55.443924 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=8215.732 Y=2260.948 Z=108.542 Rotation: P=0.000000 Y=55.443741 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=1
 CreatureRockMonster_C
 Translation: X=7877.012 Y=931.621 Z=230.944 Rotation: P=0.000000 Y=-97.775826 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=2
 CreatureRockMonster_C
-Translation: X=8772.908 Y=5597.384 Z=145.293 Rotation: P=0.000000 Y=66.123566 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=8772.908 Y=5597.384 Z=145.293 Rotation: P=0.000000 Y=66.123779 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=3
 CreatureRockMonster_C
 Translation: X=9170.941 Y=1317.495 Z=142.269 Rotation: P=0.000000 Y=176.517197 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=4
 CreatureRockMonster_C
-Translation: X=9200.098 Y=1990.836 Z=178.865 Rotation: P=0.000000 Y=45.226936 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=9200.098 Y=1990.836 Z=178.865 Rotation: P=0.000000 Y=45.227119 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=5
 CreatureSlimySlug_C
 Translation: X=3806.707 Y=6154.166 Z=63.150 Rotation: P=0.000000 Y=-131.482895 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
@@ -261,22 +258,22 @@ CreatureRockMonster_C
 Translation: X=5225.911 Y=7359.278 Z=142.811 Rotation: P=0.000000 Y=81.812141 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=8
 CreatureRockMonster_C
-Translation: X=9216.894 Y=1760.925 Z=219.979 Rotation: P=0.000000 Y=-45.831165 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=9216.894 Y=1760.925 Z=219.979 Rotation: P=0.000000 Y=-45.831345 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=9
 CreatureRockMonster_C
-Translation: X=9243.920 Y=1473.227 Z=176.533 Rotation: P=0.000000 Y=57.135689 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=9243.920 Y=1473.227 Z=176.533 Rotation: P=0.000000 Y=57.135422 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=10
 CreatureRockMonster_C
 Translation: X=9206.070 Y=1999.749 Z=175.894 Rotation: P=0.000000 Y=-150.259079 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=11
 CreatureRockMonster_C
-Translation: X=7811.915 Y=1352.875 Z=158.372 Rotation: P=0.000000 Y=-27.988211 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=7811.915 Y=1352.875 Z=158.372 Rotation: P=0.000000 Y=-27.988028 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=12
 CreatureRockMonster_C
 Translation: X=8051.479 Y=992.259 Z=161.173 Rotation: P=0.000000 Y=150.127243 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=13
 CreatureRockMonster_C
-Translation: X=8052.076 Y=1344.852 Z=208.213 Rotation: P=0.000000 Y=64.222878 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+Translation: X=8052.076 Y=1344.852 Z=208.213 Rotation: P=0.000000 Y=64.223068 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
 ID=14
 CreatureRockMonster_C
 Translation: X=3471.409 Y=8249.370 Z=214.359 Rotation: P=0.000000 Y=-174.748352 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
@@ -294,27 +291,21 @@ blocks{
 4-3
 }
 script{
-int ttAtExitPoint=0
-
+int ttAtExitPoint=0 # Used for win condition objective, it's basically boolean.
 
 bool baseTideIsFlooding=false
-#timer baseTideTimer=10,10,baseTideToggle
-
 bool floodedCaveForkExcavationStarted # Doesnt matter how far, jsut that excavation has started in any way.
 bool caveForkBypassEnabled
 bool forkCliffExcavated
 bool forkBypassFlooded
 bool forkCliffFlooded
 bool weakenedWallAdjacentToFork
-float floodSpeedFast=1.75
-float floodSpeedNormal=3.14
+
+float floodSpeedFast=0.25
+float floodSpeedNormal=1.0
 
 # Disable certain advantagous buildings, due to "resource shortage".
 disable:BuildingSupportStation_C
-
-# Objectives
-#variable:ttAtExitPointObjective
-#variable:ttAtExitPoint==1/Exit the cavern using the Tunnel Transport.
 
 # MSG: Objectives
 string superTeleportBuiltMsg="Good! Now all you need to do is to teleport down a Heavycopter and exit the cavern via the waterfall"
@@ -366,22 +357,22 @@ wait:floodSpeedFast;
 ((get(10)(20)!=34))place:10,20,11;
 ((get(9)(19)!=34))place:9,19,11;
 wait:floodSpeedFast;
-# Tiny inner cave (NB: can already be flooded from other direction)
+# Tiny inner cave
 ((get(8)(19)!=11))place:8,19,11;
 wait:floodSpeedFast;
 ((get(7)(19)!=11))place:7,19,11;
 ((weakenedWallAdjacentToFork==true))weakenedWallAdjacentToForkTornDown;
 # Middle rocks
-((get(7)(20)!=34))place:7,20,11;
+((get(7)(20)!=30))place:7,20,11;
 wait:floodSpeedFast;
 ((get(6)(20)!=26))place:6,20,11;
 wait:floodSpeedFast;
 ((get(5)(20)!=26))place:5,20,11;
 ((get(6)(21)!=26))place:6,21,11;
-wait:floodSpeedFast; # Known BUG: No easy non-convoluted way to wait if only one or both are true, expect weird wait mid-flow
+wait:floodSpeedFast;
 ((get(5)(21)!=26))place:5,21,11;
 ((get(6)(22)!=34))place:6,22,11;
-wait:floodSpeedFast; # Known BUG: No easy non-convoluted way to wait if only one or both are true, expect weird wait mid-flow
+wait:floodSpeedFast;
 ((get(4)(21)!=30))place:4,21,11;
 ((get(3)(21)!=30))place:3,21,11;
 ((get(3)(21)!=30))forkCliffExcavated=true;
@@ -513,8 +504,8 @@ wait:3;
 win;
 
 ### Triggers
+when(drill:13,21)[shake:2.5] # A warning of things to come... The only one they get.
 when(drill:13,23)[discoverFloodedCave]
-when(drill:13,22)[shake:4.0]
 when(drill:12,19)[floodedCaveForkExcavationStarted=true]
 when(drill:3,21)[enableFloodForkBypass]
 
