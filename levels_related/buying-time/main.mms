@@ -1,15 +1,13 @@
-int ttAtExitPoint=0
-
+int ttAtExitPoint=0 # Used for win condition objective, it's basically boolean.
 
 bool baseTideIsFlooding=false
-#timer baseTideTimer=10,10,baseTideToggle
-
 bool floodedCaveForkExcavationStarted # Doesnt matter how far, jsut that excavation has started in any way.
 bool caveForkBypassEnabled
 bool forkCliffExcavated
 bool forkBypassFlooded
 bool forkCliffFlooded
 bool weakenedWallAdjacentToFork
+
 float floodSpeedFast=0.25
 float floodSpeedNormal=1.0
 
@@ -78,10 +76,10 @@ wait:floodSpeedFast;
 wait:floodSpeedFast;
 ((get(5)(20)!=26))place:5,20,11;
 ((get(6)(21)!=26))place:6,21,11;
-wait:floodSpeedFast; # Known BUG: No easy non-convoluted way to wait if only one or both are true, expect weird wait mid-flow
+wait:floodSpeedFast;
 ((get(5)(21)!=26))place:5,21,11;
 ((get(6)(22)!=34))place:6,22,11;
-wait:floodSpeedFast; # Known BUG: No easy non-convoluted way to wait if only one or both are true, expect weird wait mid-flow
+wait:floodSpeedFast;
 ((get(4)(21)!=30))place:4,21,11;
 ((get(3)(21)!=30))place:3,21,11;
 ((get(3)(21)!=30))forkCliffExcavated=true;
